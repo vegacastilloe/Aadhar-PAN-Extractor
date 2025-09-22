@@ -19,14 +19,14 @@
  🔗 Link to Excel file:
  👉 https://lnkd.in/dNb5yph4
 
-**My code in Python** 🐍 **for this challenge**
-
- 🔗 https://github.com/vegacastilloe/Aadhar-PAN-Extractor/blob/main/aadhar_and_pan_extract.py
+> **My code in Python** 🐍 **for this challenge**
+> 
+>  🔗 https://github.com/vegacastilloe/Aadhar-PAN-Extractor/blob/main/aadhar_and_pan_extract.py
 
 ---
 ---
 
-# 🆔 Aadhar & PAN Extractor
+## 🆔 Aadhar & PAN Extractor
 
 Este script en Python permite extraer y validar identificadores personales desde cadenas de texto. Utiliza expresiones regulares para detectar:
 
@@ -66,7 +66,7 @@ El script imprime un DataFrame con:
 ## ✨ Output:
 
 | Names  | Strings              | Aadhar        | PAN         | Aadhar Given | PAN Given | Match1 | Match2 |
-|--------|----------------------|---------------|-------------|--------------|-----------|--------|--------|
+|-|-|-|-|-|-|-|-|
 | Aarav  | A652381472095B3K...  | 652381472095  | ABCDE1234F  | 652381472095 | ABCDE1234F| True   | True   |
 | Sanya  | 1239038938PQWRT...   |               | PQWRT9087K  |              | PQWRT9087K| True   | True   |
 
